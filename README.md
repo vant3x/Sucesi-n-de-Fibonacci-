@@ -3,6 +3,7 @@
 
   La secuencia de fibonacci es un algoritmo típico que se ve en informática
 
+![captura de pantalla 2017-09-18 a la s 9 46 02 a m](https://user-images.githubusercontent.com/11634391/30547920-4c3c0672-9c56-11e7-99dd-8f17a4e1dd80.png)
 
 Esta Sucesión es muy simple de comprender, simplemente comienza por el número 0 seguido del 1, y a partir de estos se suma cada numero con el anterior y se agrega a la secuencia, y repetimos la operación:
 
